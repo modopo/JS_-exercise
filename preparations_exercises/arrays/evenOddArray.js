@@ -10,6 +10,6 @@ let myArray = [
       } else {
           return 'odd';
       }
-  })
+  });
 
   console.log(newArray);
